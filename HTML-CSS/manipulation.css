@@ -1,0 +1,29 @@
+img {
+    width: 400px; 
+    border-radius: 20px; 
+    box-shadow: 0 4px 15px gray;
+}
+body{
+    background:linear-gradient(to right,pink,lavender,skyblue);
+    border: 5cm;
+}
+#content {
+    display: flex;
+    gap: 1cm;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    padding: 15px;
+    font-style:oblique;
+    text-decoration:double;
+    text-shadow: 2cm;
+    background-color:hotpink;
+}
+p{
+    text-align: start;
+    font-size: 20px;
+    color:darkorange;
+
+}
